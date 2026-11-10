@@ -10,7 +10,7 @@ Android 7.0 ke atas · ±98 MB · masuk dengan akun SPADA-mu sendiri
 
 ## Fitur
 
-| | |
+| **Fitur** | **Deskripsi** |
 |---|---|
 | **Beranda** | Kuliah berikutnya, persentase kehadiran, dan tugas paling mendesak dalam sekali lihat |
 | **Notifikasi** | Dikabari saat absen dibuka, ada tugas baru, atau deadline makin dekat |
