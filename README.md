@@ -11,6 +11,7 @@ Android 7.0 ke atas · ±98 MB · masuk dengan akun SPADA-mu sendiri
 ## Fitur
 
 | | |
+|---|---|
 | **Beranda** | Kuliah berikutnya, persentase kehadiran, dan tugas paling mendesak dalam sekali lihat |
 | **Notifikasi** | Dikabari saat absen dibuka, ada tugas baru, atau deadline makin dekat |
 | **Absen dari HP** | Termasuk absen yang memakai password dosen. Kehadiran langsung tercatat di SPADA |
